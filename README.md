@@ -53,15 +53,6 @@ Me chamo Eduardo Anderson Almeida de Jesus, tenho 21 anos e sou natural de Toled
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
-/>
-
 <br/>
 <br/>
 
