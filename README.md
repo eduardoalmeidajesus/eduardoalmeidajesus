@@ -10,4 +10,4 @@ Python • Flutter • Node.js • Java • SQL • Git • GitHub
 
 ### 📫 Contato
 
-[LinkedIn]([https://www.linkedin.com/in/eduardoalmeidajesus/])
+[LinkedIn](https://www.linkedin.com/in/eduardoalmeidajesus/)
