@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Eduardo Jesus
+# 👨🏻‍💻 Eduardo Anderson Almeida de Jesus
 
 **Analista de Inteligência de Mercado | Desenvolvedor de Software**
 
