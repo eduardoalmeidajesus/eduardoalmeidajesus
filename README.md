@@ -2,6 +2,8 @@
 
 **Analista de Inteligência de Mercado | Desenvolvedor de Software**
 
+Técnólogo em Sistemas para internet (Universidade Federal Tecnológica do Paraná - UTFPR) e Pós-graduando em Arquitetura de Sistemas e Engenharia de Software (UniCesumar)
+
 Trabalho com desenvolvimento de software, dados e automação de processos.
 
 ### 🛠️ Tecnologias
