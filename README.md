@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Eduardo Anderson Almeida de Jesus
 
-**Market Intelligence Analyst | Software Developer**
+**Software Developer | Market Intelligence Analyst**
 
 🎓 **Bachelor of Technology in Internet Systems (Federal University of Technology – Paraná — UTFPR)**<br>
 🧠 **Postgraduate Student in Systems Architecture and Software Engineering (UniCesumar)**
