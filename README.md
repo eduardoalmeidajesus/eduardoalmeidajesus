@@ -1,13 +1,13 @@
 # 👨🏻‍💻 Eduardo Anderson Almeida de Jesus
 
-**Analista de Inteligência de Mercado | Desenvolvedor de Software**
+**Market Intelligence Analyst | Software Developer**
 
-🎓 **Tecnólogo em Sistemas para Internet (Universidade Tecnológica Federal do Paraná - UTFPR)**<br>
-🧠 **Pós-graduando em Arquitetura de Sistemas e Engenharia de Software (UniCesumar)**
+🎓 **Bachelor of Technology in Internet Systems (Federal University of Technology Paraná — UTFPR)**<br>
+🧠 **Postgraduate Student in Systems Architecture and Software Engineering (UniCesumar)**
 
-Trabalho com desenvolvimento de software, dados e automação de processos.
+I work with software development, data, and process automation.
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
